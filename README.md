@@ -5,7 +5,7 @@ A next-generation **AI + Web3 startup landing page** combining blockchain aesthe
 ---
 
 ## 🚀 Live Demo  
-🔗 omkarghare8.github.io/web3-blockchain-startup-landing-page-template-v3/
+🔗 https://omkarghare8.github.io/web3-blockchain-startup-landing-page-template-v3/
 
 ---
 
